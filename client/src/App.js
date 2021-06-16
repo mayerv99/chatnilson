@@ -40,7 +40,6 @@ const GlobalStyle = createGlobalStyle`
   input{
     border: none;
     border: 1px solid var(--color-primary);
-    border-radius: 5px 0 0 5px;
     width: 99%;
     padding: 3px 5px;
     line-height: 33px;
